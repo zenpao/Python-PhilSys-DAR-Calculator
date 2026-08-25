@@ -1,6 +1,6 @@
 # Python-PhilSys-DAR-Calculator
 
-A command-line calculator for tallying PhilSys registration Daily Accomplishment Report (DAR) figures — RKO (Registration Kiosk Officer) counts, age group breakdowns, and biometric exemptions — with running totals for Step 2 registration.
+A command-line calculator for tallying PhilSys registration Daily Accomplishment Report (DAR) figures — RKO (Registration Kit Operator) counts, age group breakdowns, and biometric exemptions — with running totals for Step 2 registration.
 
 **A ready-to-use executable is available in [`/dist`](./dist) — no Python installation required.**
 
