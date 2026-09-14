@@ -72,4 +72,4 @@ Python-PhilSys-DAR-Calculator/
 
 ## License
 
-Not specified.
+Apache License 2.0
